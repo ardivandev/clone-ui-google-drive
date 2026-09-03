@@ -16,6 +16,8 @@ Website ini merupakan replika tampilan antarmuka (UI clone) dari platform penyim
 
 ## Gambar Project
 
+<img width="2920" height="1678" alt="Macbook-Air-clone-ui-google-drive-prjct vercel app" src="https://github.com/user-attachments/assets/7d2e4359-57d0-46fe-8a3a-d4264c8a5027" />
+
 ---
 
 @ Ardivan Nur Raihan Rahman (2026) | Project HTML + CSS
